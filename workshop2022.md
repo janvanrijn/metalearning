@@ -27,12 +27,8 @@ Main research areas:
 ### Submission Format
 
 This workshop hosts two tracks:
-* Original paper track: Authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the LaTeX [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs) format, maximal 12 pages. Note that this does not exclude you from sending this work later to other conferences or journals. 
+* Original paper track: Authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the LaTeX [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs) format, maximal 12 pages. The papers from the original paper track will be allowed the option to opt-in for publication in formal proceedings (exact venue TBD).
 * Poster of already published work: Authors can apply for a poster spot for a paper that has recently (less than 2 years) been published elsewhere. During submission, you send a link to the already published version of the work, and the peer-review will determine whether it is a good match based on the topic. 
-
-### Proceedings
-
-The papers from the original paper track will be allowed the option to opt-in for publication in formal proceedings (exact venue TBD). 
 
 ### Important Dates
 
@@ -41,6 +37,10 @@ The papers from the original paper track will be allowed the option to opt-in fo
 * Early registration deadline: July 22th, 2022
 * Program and papers will be available online by: September 5th, 2022
 * Workshop date: September 23rd, 2022 (afternoon)
+
+### Program Committee
+
+Will be added soon. 
 
 ### Organizers
 
