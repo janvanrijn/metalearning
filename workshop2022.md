@@ -27,8 +27,12 @@ Main research areas:
 ### Submission Format
 
 This workshop hosts two tracks:
-* Original paper track: In this track, authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the `Lecture Notes in Computer Science` format, maximal 12 pages. Note that this does not exclude you from sending this work later to other conferences or journals. 
+* Original paper track: In this track, authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the LaTeX [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs) format, maximal 12 pages. Note that this does not exclude you from sending this work later to other conferences or journals. 
 * Poster of already published work: In this track, authors can apply for a poster spot for a paper that has recently (less than 2 years) been published elsewhere. During submission, you send a link to the already published version of the work, and the peer-review will determine whether it is a good match based on the topic. 
+
+### Proceedings
+
+The papers from the original paper track will be allowed the option to opt-in for publication in formal proceedings (exact venue TBD). 
 
 ### Important Dates
 
