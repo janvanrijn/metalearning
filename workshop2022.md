@@ -46,12 +46,17 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 * Program and papers will be available online by: September 5th, 2022
 * Workshop date: September 23rd, 2022 (afternoon)
 
-### Program Committee
+### Organization
+
+#### Program Committee
 
 Will be added soon. 
 
-### Organizers
+#### Advisory Board
+* [Holger Hoos](https://hoos.ca/), RWTH Aachen University, Germany and Leiden University, the Netherlands
+* [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/), University of Freiburg, Germany
 
+#### General organizers
 * [Pavel Brazdil](http://www.liaad.up.pt/area/pbrazdil/pavel-brazdil), University of Porto, Portugal
 * [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn), Leiden University, The Netherlands
 * [Henry Gouk](https://www.henrygouk.com/), University of Edinburgh, Scotland 
