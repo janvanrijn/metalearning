@@ -2,8 +2,10 @@
 This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https://2022.ecmlpkdd.org/). It will be a half-day workshop, along with a half-day tutorial on Metalearning. 
 
 ### Invited Speakers
-* [Timothy Hospedalis](https://homepages.inf.ed.ac.uk/thospeda/)
-* [Pascal Hitzler](https://people.cs.ksu.edu/~hitzler/)
+* [Timothy Hospedalis](https://homepages.inf.ed.ac.uk/thospeda/), University of Edinburgh, Scotland
+  * Title: TBD
+* [Pascal Hitzler](https://people.cs.ksu.edu/~hitzler/), Kansas State University, USA
+  * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence
 
 ### Call For Papers
 Metaknowledge normally captures different aspects of existing (or potential) solutions, including, for instance which preprocessing methods should be used for the given data; which ML algorithms are relevant; which hyperparameters should be considered and how should these be set; how should all these elements be combined into useful pipelines or procedures. The aim of this workshop is to address the issues related to how (meta-)knowledge can be generated and transferred among different ML and AutoML systems, so that their joint capability to solve problems would be enhanced.
@@ -46,7 +48,7 @@ Will be added soon.
 
 ### Organizers
 
-* [Pavel Brazdil](http://www.liaad.up.pt/area/pbrazdil/pavel-brazdil)
-* [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn)
-* [Henry Gouk](https://www.henrygouk.com/)
-* [Felix Mohr](http://www.liaad.up.pt/area/pbrazdil/pavel-brazdil)
+* [Pavel Brazdil](http://www.liaad.up.pt/area/pbrazdil/pavel-brazdil), University of Porto, Portugal
+* [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn), Leiden University, The Netherlands
+* [Henry Gouk](https://www.henrygouk.com/), University of Edinburgh, Scotland 
+* [Felix Mohr](https://www.linkedin.com/in/felix-mohr-83464a220/), Universidad de La Sabana, Colombia
