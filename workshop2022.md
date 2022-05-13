@@ -2,7 +2,7 @@
 This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https://2022.ecmlpkdd.org/). It will be a half-day workshop, along with a half-day tutorial on Metalearning. 
 
 ### Invited Speakers
-* [Timothy Hospedalis](https://homepages.inf.ed.ac.uk/thospeda/), University of Edinburgh, Scotland
+* [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/), University of Edinburgh, Scotland
   * Title: TBD
 * [Pascal Hitzler](https://people.cs.ksu.edu/~hitzler/), Kansas State University, USA
   * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence
