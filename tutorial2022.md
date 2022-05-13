@@ -18,7 +18,7 @@ Date: September 23rd, 2022
   * Utilising Learning Curves (Ch5, Learning Curves Survey)
 * Meta-learning for Pipeline Optimization (45m, FM)
   * Random Search and Grid Search (Ch 6)
-  * Bayesian Optimization(Ch6)
+  * Bayesian Optimization (Ch6)
   * Automating Workflow/Pipeline Design (Ch7)
   * AutoML Systems: Autosklearn and ML-Plan (Ch6)
 * Coffee Break (30m)
@@ -28,7 +28,8 @@ Date: September 23rd, 2022
   * Metric-based meta-learning (Prototypical networks) (Ch 13)
   * Bayesian Meta-Learning
 * Other important considerations (40m) (PB+JvR)
-  * Design of Configuration Spaces (Ch 8) o Functional ANOVA (Ch 8)
+  * Design of Configuration Spaces (Ch 8) 
+  * Functional ANOVA (Ch 8)
   * Automating Data Science(Ch14)
   * Learning from Meta-data in Repositories (Ch 17)
   * Designing Complex applications (Ch 15)
