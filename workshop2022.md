@@ -3,7 +3,7 @@ This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https:
 
 ### Invited Speakers
 * [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/), University of Edinburgh, Scotland
-  * Title: TBD
+  * Title: Meta-learning for Knowledge Transfer
 * [Pascal Hitzler](https://people.cs.ksu.edu/~hitzler/), Kansas State University, USA
   * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence
 
