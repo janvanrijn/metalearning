@@ -54,6 +54,7 @@ Will be added soon.
 
 #### Advisory Board
 * [Holger Hoos](https://hoos.ca/), RWTH Aachen University, Germany and Leiden University, the Netherlands
+* [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/), University of Edinburgh, Scotland
 * [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/), University of Freiburg, Germany
 
 #### General organizers
