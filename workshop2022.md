@@ -11,6 +11,7 @@ This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https:
 Metaknowledge normally captures different aspects of existing (or potential) solutions, including, for instance which preprocessing methods should be used for the given data; which ML algorithms are relevant; which hyperparameters should be considered and how should these be set; how should all these elements be combined into useful pipelines or procedures. The aim of this workshop is to address the issues related to how (meta-)knowledge can be generated and transferred among different ML and AutoML systems, so that their joint capability to solve problems would be enhanced.
 
 Main research areas:
+
 * Controlling the learning processes
 * Definitions of configuration spaces
 * Few-shot learning
