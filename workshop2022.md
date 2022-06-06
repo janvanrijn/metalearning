@@ -52,7 +52,30 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 
 #### Program Committee
 
-Will be added soon. 
+* Aaron Klein (AWS Berlin)
+* Adriano Rivolli (Technological University of Paraná)
+* Andre C P L F	de Carvalho (USP, Brazil)
+* Annelot	W Bosman (Universiteit Leiden)
+* Bernhard Pfahringer (University of Waikato)
+* Boyan Gao (University of Edinburgh)
+* Carlos Soares (INESC TEC)
+* Christophe Giraud-Carrier (Brigham Young University)
+* Eibe Frank (University of Waikato)
+* Hugo Jair Escalante (INAOE)
+* Joao Gama (INESC TEC - LIAAD)
+* Joaquin Vanschoren (Eindhoven University of Technology)
+* José Hernández-Orallo (Universitat Politècnica de València)
+* Kate Smith-Miles
+* Kemilly Dearo
+* Lars Kotthoff (University of Wyoming)
+* Martin Wistuba	(Amazon)
+* Matthias Feurer (University of Freiburg)
+* Mike Huisman	(Leiden University)
+* Peter van der Putten (Leiden University)
+* Rafael Gomes Mantovani	(Federal Technology University of Paraná)
+* Salisu Abdulraman
+
+Program Committee will be extended later.
 
 #### Advisory Board
 * [Holger Hoos](https://hoos.ca/), RWTH Aachen University, Germany and Leiden University, the Netherlands
