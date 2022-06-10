@@ -63,7 +63,7 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 
 * Salisu Abdulrahman	(University of Kano, Nigeria)
 * André de Carvalho	(University of São Paulo, Brazil)
-* Kemilly Dearo Garcia	(Pega, The Netherlands)
+* Kemilly Dearo Garcia	(Pegasystems, The Netherlands)
 * Hugo Jair Escalante	(INAOE LG Electronics AI Lab)
 * Matthias Feurer (Albert-Ludwigs-Universitaet Freiburg, Germany)
 * Eibe Frank (University of Waikato, NZ)
