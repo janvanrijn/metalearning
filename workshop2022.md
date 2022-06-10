@@ -36,6 +36,15 @@ This workshop hosts two tracks:
 
 Submissions can be made through [Microsoft CMT](https://cmt3.research.microsoft.com/METALEARNING2022/)
 
+### Format of the Workshop
+
+The workshop will last a half a day, as it is forms part of a combined tutorial-workshop. It will include: 
+
+* Invited talks
+* Short oral presentations
+* Poster session 
+* Panel discussions on "Main challenges of communication of (meta)-knowledge among different systems"
+
 ### Proceedings
 
 The organizers are planning to prepare formal proceedings. The authors of accepted papers can decide whether they wish to have their full paper included or not. In the latter case, publication of short abstract would be possible.
@@ -52,28 +61,30 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 
 #### Program Committee
 
-* Aaron Klein (AWS Berlin)
-* Adriano Rivolli (Technological University of Paraná)
-* Andre C P L F	de Carvalho (USP, Brazil)
-* Annelot	W Bosman (Universiteit Leiden)
-* Bernhard Pfahringer (University of Waikato)
-* Boyan Gao (University of Edinburgh)
-* Carlos Soares (INESC TEC)
-* Christophe Giraud-Carrier (Brigham Young University)
-* Eibe Frank (University of Waikato)
-* Hugo Jair Escalante (INAOE)
-* Joao Gama (INESC TEC - LIAAD)
-* Joaquin Vanschoren (Eindhoven University of Technology)
-* José Hernández-Orallo (Universitat Politècnica de València)
-* Kate Smith-Miles
-* Kemilly Dearo
-* Lars Kotthoff (University of Wyoming)
-* Martin Wistuba	(Amazon)
-* Matthias Feurer (University of Freiburg)
-* Mike Huisman	(Leiden University)
-* Peter van der Putten (Leiden University)
-* Rafael Gomes Mantovani	(Federal Technology University of Paraná)
-* Salisu Abdulraman
+* Salisu Abdulrahman	(University of Kano, Nigeria)
+* André de Carvalho	(University of São Paulo, Brazil)
+* Kemilly Dearo Garcia	(Pega, The Netherlands)
+* Hugo Jair Escalante	(INAOE LG Electronics AI Lab)
+* Matthias Feurer (Albert-Ludwigs-Universitaet Freiburg, Germany)
+* Eibe Frank (University of Waikato, NZ)
+* João Gama	(University of Porto, Portugal)
+* Boyan Gao	(University of Edinburgh, Scotland)
+* Christophe (Giraud-Carrier 	Brigham Young University, USA)
+* João Gama	(Univ. of Porto / INESC TEC, Portugal)
+* Isabelle Guyon	(ChaLearn, Université Paris-Saclay, France)
+* José Hernández-Orallo	(Universitat Politecnica de Valencia, Spain)
+* Boyan Gao	(University of Edinburgh, Portugal)
+* Aaron Klein	(Amazon AWS)
+* Pavel Kordik	(CVUT Prague, Czech Republik)
+* Lars Kotthoff	(University of Wyoming, Canada)
+* Rafael Gomes Mantovani	(University of Paraná, Brazil)
+* Bernhard Pfahringer	(Univ. of Waikato, NZ)
+* Ricardo Prudêncio	(UFPE, Brazil)
+* Adriano Rivolli	(UTFPR, Brazil)
+* Kate Smith-Miles	(University of Melbourne)
+* Carlos Soares	(University of Porto)
+* Joaquin Vanschoren (Eindhoven Univ. of Technology)
+* Martin Wistuba	(Amazon Development Center Germany GmbH, Berlin)
 
 Program Committee will be extended later.
 
