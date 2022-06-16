@@ -75,6 +75,7 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 * José Hernández-Orallo	(Universitat Politecnica de Valencia, Spain)
 * Boyan Gao	(University of Edinburgh, Portugal)
 * Aaron Klein	(Amazon AWS)
+* Matthias König (Leiden University, Netherlands)
 * Pavel Kordik	(CVUT Prague, Czech Republik)
 * Lars Kotthoff	(University of Wyoming, Canada)
 * Rafael Gomes Mantovani	(University of Paraná, Brazil)
