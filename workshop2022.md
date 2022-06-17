@@ -51,8 +51,8 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 
 ### Important Dates
 
-* Paper submission deadline: June 20th, 2022
-* Paper acceptance notification: July 13th, 2022
+* Paper submission deadline: ~~June 20th, 2022~~ June 27th, 2022
+* Paper acceptance notification: ~~July 13th, 2022~~ July 20th, 2022
 * Early registration deadline: July 22th, 2022
 * Program and papers will be available online by: September 5th, 2022
 * Workshop date: September 23rd, 2022 (afternoon)
