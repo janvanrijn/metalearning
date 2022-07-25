@@ -7,7 +7,7 @@ Date: July 25rd, 2022 (11:00-12:30)
 
 ### Slides
 
-![Slides](GFX/pdffile.png)
+<img src="GFX/pdffile.png" width="50" />
 
 ### Abstract
 
