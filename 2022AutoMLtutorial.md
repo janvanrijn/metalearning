@@ -7,7 +7,7 @@ Date: July 25rd, 2022 (11:00-12:30)
 
 ### Slides
 
-[<img src="GFX/pdffile.png" width="50" />](/metalearning/content/2022AutoML/tutorial_learning_curves.pdf)
+[<img src="GFX/pdffile.png" width="50" />](/metalearning/content/2022AutoML/tutorial_learning_curves.pdf){:target="_blank" rel="noopener"}
 
 ### Abstract
 
