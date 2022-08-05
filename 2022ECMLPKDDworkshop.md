@@ -51,8 +51,8 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 
 ### Important Dates
 
-* Paper submission deadline: ~~June 20th, 2022~~ June 27th, 2022
-* Paper acceptance notification: ~~July 13th, 2022~~ July 20th, 2022
+* Paper submission deadline: June 27th, 2022 (extended)
+* Paper acceptance notification: July 20th, 2022 (extended)
 * Early registration deadline: July 22th, 2022
 * Program and papers will be available online by: September 5th, 2022
 * Workshop date: September 23rd, 2022 (afternoon)
@@ -62,6 +62,7 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 #### Program Committee
 
 * Salisu Abdulrahman	(University of Kano, Nigeria)
+* Annelot Bosman (Leiden University, the Netherlands)
 * André de Carvalho	(University of São Paulo, Brazil)
 * Kemilly Dearo Garcia	(Pegasystems, The Netherlands)
 * Hugo Jair Escalante	(INAOE LG Electronics AI Lab)
@@ -70,24 +71,22 @@ The organizers are planning to prepare formal proceedings. The authors of accept
 * João Gama	(University of Porto, Portugal)
 * Boyan Gao	(University of Edinburgh, Scotland)
 * Christophe (Giraud-Carrier 	Brigham Young University, USA)
-* João Gama	(Univ. of Porto / INESC TEC, Portugal)
-* Isabelle Guyon	(ChaLearn, Université Paris-Saclay, France)
+* Rafael Gomes Mantovani	(University of Paraná, Brazil)
 * José Hernández-Orallo	(Universitat Politecnica de Valencia, Spain)
+* Mike Huisman (Leiden University, the Netherlands)
 * Boyan Gao	(University of Edinburgh, Portugal)
 * Aaron Klein	(Amazon AWS)
 * Matthias König (Leiden University, Netherlands)
 * Pavel Kordik	(CVUT Prague, Czech Republik)
 * Lars Kotthoff	(University of Wyoming, Canada)
-* Rafael Gomes Mantovani	(University of Paraná, Brazil)
 * Bernhard Pfahringer	(Univ. of Waikato, NZ)
-* Ricardo Prudêncio	(UFPE, Brazil)
 * Adriano Rivolli	(UTFPR, Brazil)
 * Kate Smith-Miles	(University of Melbourne)
 * Carlos Soares	(University of Porto)
+* Peter van der Putten (Leiden University, the Netherlands)
 * Joaquin Vanschoren (Eindhoven Univ. of Technology)
 * Martin Wistuba	(Amazon Development Center Germany GmbH, Berlin)
 
-Program Committee will be extended later.
 
 #### Advisory Board
 * [Holger Hoos](https://hoos.ca/){:target="_blank" rel="noopener"}, RWTH Aachen University, Germany and Leiden University, the Netherlands
