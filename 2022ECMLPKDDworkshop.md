@@ -7,6 +7,19 @@ This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https:
 * [Pascal Hitzler](https://people.cs.ksu.edu/~hitzler/){:target="_blank" rel="noopener"}, Kansas State University, USA
   * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence
 
+### Program (tentative)
+
+14:30 - 14:40 Welcome and introduction
+14:40 - 15:30 Keynote I by Timothy Hospedales: Meta-learning for Knowledge Transfer
+15:30 - 16:00 Poster Spotlight Presentations
+16:00 - 17:00 Poster Session
+16:30 - 17:00 Official coffee break, at Posters
+17:00 - 17:45 Keynote II by Pascal Hitzler: Some advances regarding ontologies and neuro-symbolic artificial intelligence
+17:45 - 18:25 Panel Discussion. Hosted by Henry Gouk. Confirmed Panelists: Pascal Hitzler, TBD.
+18:25 - 18:30 Closing Remarks
+
+We have noticed that there is a mix of participants onsite and online. We are currently investigating how we can best facilitate interaction between both audiences. 
+
 ### Call For Papers
 Metaknowledge normally captures different aspects of existing (or potential) solutions, including, for instance which preprocessing methods should be used for the given data; which ML algorithms are relevant; which hyperparameters should be considered and how should these be set; how should all these elements be combined into useful pipelines or procedures. The aim of this workshop is to address the issues related to how (meta-)knowledge can be generated and transferred among different ML and AutoML systems, so that their joint capability to solve problems would be enhanced.
 
