@@ -10,12 +10,19 @@ This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https:
 ### Program (tentative)
 
 14:30 - 14:40 Welcome and introduction
+
 14:40 - 15:30 Keynote I by Timothy Hospedales: Meta-learning for Knowledge Transfer
+
 15:30 - 16:00 Poster Spotlight Presentations
+
 16:00 - 17:00 Poster Session
+
 16:30 - 17:00 Official coffee break, at Posters
+
 17:00 - 17:45 Keynote II by Pascal Hitzler: Some advances regarding ontologies and neuro-symbolic artificial intelligence
+
 17:45 - 18:25 Panel Discussion. Hosted by Henry Gouk. Confirmed Panelists: Pascal Hitzler, TBD.
+
 18:25 - 18:30 Closing Remarks
 
 We have noticed that there is a mix of participants onsite and online. We are currently investigating how we can best facilitate interaction between both audiences. 
