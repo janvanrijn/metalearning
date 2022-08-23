@@ -27,16 +27,16 @@ This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https:
 
 We have noticed that there is a mix of participants onsite and online. We are currently investigating how we can best facilitate interaction between both audiences.
 
-### Accepted Papers
+### Accepted Papers (pre-proceedings)
 
 * [M. Anastacio, T. Matricon, H. H. Hoos, Instance selection for configuration performance comparison](/metalearning/content/2022ECMLPKDD_proceedings/Anastacio22a.pdf){:target="_blank" rel="noopener"}
 * [D. Carrion-Ojeda, H. Chen, A. El Baz, S. Escalera, C. Guan, I. Guyon, I. Ullah, X. Wang, W. Zhu, NeurIPS’22 Cross-Domain MetaDL competition: Design and baseline results](/metalearning/content/2022ECMLPKDD_proceedings/Carrion-Ojeda22a.pdf){:target="_blank" rel="noopener"}
 * [D. Deng, M. Lindauer, Searching in the Forest for Local Bayesian Optimization](/metalearning/content/2022ECMLPKDD_proceedings/Deng22a.pdf){:target="_blank" rel="noopener"}
 * [G. Franken, P. Singh, J. Vanschoren, Faster Performance Estimation for NAS with Embedding Proximity Score](/metalearning/content/2022ECMLPKDD_proceedings/Franken22a.pdf){:target="_blank" rel="noopener"}
-* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Gosiewska22a.pdf){:target="_blank" rel="noopener"}
-* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Hetlerovic22a.pdf){:target="_blank" rel="noopener"}
-* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Occorso22a.pdf){:target="_blank" rel="noopener"}
-* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Wang22a.pdf){:target="_blank" rel="noopener"}
+* [A. Gosiewska, K. Woznica, P. Biecek, Interpretable Meta-Score for Model Performance](/metalearning/content/2022ECMLPKDD_proceedings/Gosiewska22a.pdf){:target="_blank" rel="noopener"}
+* [D. Hetlerovic, L. Popelinsky, P. Brazdil, C. Soares, F. Freitas, On Usefulness of Outlier Elimination in Classification Tasks (Extended Abstract)](/metalearning/content/2022ECMLPKDD_proceedings/Hetlerovic22a.pdf){:target="_blank" rel="noopener"}
+* [M. Occorso, L. Sabbioni, A. M. Metelli, M. Restelli, Trust Region Meta Learning for Policy Optimization](/metalearning/content/2022ECMLPKDD_proceedings/Occorso22a.pdf){:target="_blank" rel="noopener"}
+* [H. Wang, H. Fraser, H. Gouk, E. Frank, B. Pfahringer, M. Mayo, G. Holmes, Experiments in Cross-domain Few-shot Learning for Image Classification](/metalearning/content/2022ECMLPKDD_proceedings/Wang22a.pdf){:target="_blank" rel="noopener"}
 
 ### Call For Papers
 Metaknowledge normally captures different aspects of existing (or potential) solutions, including, for instance which preprocessing methods should be used for the given data; which ML algorithms are relevant; which hyperparameters should be considered and how should these be set; how should all these elements be combined into useful pipelines or procedures. The aim of this workshop is to address the issues related to how (meta-)knowledge can be generated and transferred among different ML and AutoML systems, so that their joint capability to solve problems would be enhanced.
