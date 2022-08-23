@@ -21,7 +21,7 @@ This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https:
 
 17:00 - 17:45 Keynote II by Pascal Hitzler: Some advances regarding ontologies and neuro-symbolic artificial intelligence
 
-17:45 - 18:25 Panel Discussion. Hosted by Henry Gouk. Confirmed Panelists: Pascal Hitzler, TBD.
+17:45 - 18:25 Panel Discussion. Hosted by Henry Gouk. Confirmed Panelists: Pascal Hitzler (Kansas State University, USA), Marco Loog (TU Delft, the Netherlands), Pavel Brazdil (University of Porto, Portugal).
 
 18:25 - 18:30 Closing Remarks
 
