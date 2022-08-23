@@ -25,7 +25,18 @@ This workshop will be co-hosted with [ECML/PKDD 2022 in Grenoble, France](https:
 
 18:25 - 18:30 Closing Remarks
 
-We have noticed that there is a mix of participants onsite and online. We are currently investigating how we can best facilitate interaction between both audiences. 
+We have noticed that there is a mix of participants onsite and online. We are currently investigating how we can best facilitate interaction between both audiences.
+
+### Accepted Papers
+
+* [M. Anastacio, T. Matricon, H. H. Hoos, Instance selection for configuration performance comparison](/metalearning/content/2022ECMLPKDD_proceedings/Anastacio22a.pdf){:target="_blank" rel="noopener"}
+* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Carrion-Ojeda22a.pdf){:target="_blank" rel="noopener"}
+* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Deng22a.pdf){:target="_blank" rel="noopener"}
+* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Franken22a.pdf){:target="_blank" rel="noopener"}
+* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Gosiewska22a.pdf){:target="_blank" rel="noopener"}
+* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Hetlerovic22a.pdf){:target="_blank" rel="noopener"}
+* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Occorso22a.pdf){:target="_blank" rel="noopener"}
+* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Wang22a.pdf){:target="_blank" rel="noopener"}
 
 ### Call For Papers
 Metaknowledge normally captures different aspects of existing (or potential) solutions, including, for instance which preprocessing methods should be used for the given data; which ML algorithms are relevant; which hyperparameters should be considered and how should these be set; how should all these elements be combined into useful pipelines or procedures. The aim of this workshop is to address the issues related to how (meta-)knowledge can be generated and transferred among different ML and AutoML systems, so that their joint capability to solve problems would be enhanced.
