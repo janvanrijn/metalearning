@@ -30,9 +30,9 @@ We have noticed that there is a mix of participants onsite and online. We are cu
 ### Accepted Papers
 
 * [M. Anastacio, T. Matricon, H. H. Hoos, Instance selection for configuration performance comparison](/metalearning/content/2022ECMLPKDD_proceedings/Anastacio22a.pdf){:target="_blank" rel="noopener"}
-* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Carrion-Ojeda22a.pdf){:target="_blank" rel="noopener"}
-* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Deng22a.pdf){:target="_blank" rel="noopener"}
-* [todo](/metalearning/content/2022ECMLPKDD_proceedings/Franken22a.pdf){:target="_blank" rel="noopener"}
+* [D. Carrion-Ojeda, H. Chen, A. El Baz, S. Escalera, C. Guan, I. Guyon, I. Ullah, X. Wang, W. Zhu, NeurIPS’22 Cross-Domain MetaDL competition: Design and baseline results](/metalearning/content/2022ECMLPKDD_proceedings/Carrion-Ojeda22a.pdf){:target="_blank" rel="noopener"}
+* [D. Deng, M. Lindauer, Searching in the Forest for Local Bayesian Optimization](/metalearning/content/2022ECMLPKDD_proceedings/Deng22a.pdf){:target="_blank" rel="noopener"}
+* [G. Franken, P. Singh, J. Vanschoren, Faster Performance Estimation for NAS with Embedding Proximity Score](/metalearning/content/2022ECMLPKDD_proceedings/Franken22a.pdf){:target="_blank" rel="noopener"}
 * [todo](/metalearning/content/2022ECMLPKDD_proceedings/Gosiewska22a.pdf){:target="_blank" rel="noopener"}
 * [todo](/metalearning/content/2022ECMLPKDD_proceedings/Hetlerovic22a.pdf){:target="_blank" rel="noopener"}
 * [todo](/metalearning/content/2022ECMLPKDD_proceedings/Occorso22a.pdf){:target="_blank" rel="noopener"}
