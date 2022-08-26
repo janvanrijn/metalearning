@@ -4,6 +4,8 @@ Tutorial co-hosted at ECML/PKDD 2022.
 
 Date: September 23rd, 2022 (morning)
 
+The tutorial will mostly be given live, in person (but it will be streamed for online participants). A very small part of the tutorial can be pre-recorded.
+
 ### Abstract
 
 Machine Learning models exceed human performance in many benchmarks in areas such as image recognition and natural language processing. In order to achieve exceptional performance, several conditions need to be met. For example, a good model type needs to be chosen, the hyperparameters need to be set appropriately, and there needs to be sufficient data. As such, there is a dependence on a human expert controlling the learning process. Metalearning aims to support this human expert in these various learning tasks.
@@ -19,30 +21,31 @@ In this tutorial, we take a problem-oriented approach, where for each problem se
 ### Provisional Schedule:
 
 * Welcome and Introduction (30m, JvR):
-  * Illustrative example of a problem(Ch1)
-  * Problem settings, explaining the relevance (Ch 1)
+  * Illustrative example of a problem ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"})
+  * Problem settings, explaining the relevance ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"})
   * Structure of the Tutorial
 * Meta-learning for Algorithm Selection (45m, PB):
-  * Average ranking method(Ch2)
-  * Algorithm Selection methods utilising meta-features (Ch 4)
-  * Active Testing(Ch5)
-  * Utilising Accuracy and Runtime (Ch 5)
-  * Utilising Learning Curves (Ch5, Learning Curves Survey)
+  * Average ranking method ([Ch 2](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_2){:target="_blank" rel="noopener"})
+  * Algorithm Selection methods utilising meta-features ([Ch 4](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_4){:target="_blank" rel="noopener"})
+  * Active Testing ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
+  * Utilising Accuracy and Runtime ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
+  * Utilising Learning Curves ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"}, [Learning Curves Survey](https://arxiv.org/abs/2201.12150){:target="_blank" rel="noopener"})
 * Meta-learning for Pipeline Optimization (45m, FM)
-  * Random Search and Grid Search (Ch 6)
-  * Bayesian Optimization (Ch6)
-  * Automating Workflow/Pipeline Design (Ch7)
-  * AutoML Systems: Autosklearn and ML-Plan (Ch6)
+  * Random Search and Grid Search ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
+  * Bayesian Optimization ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
+  * Automating Workflow/Pipeline Design ([Ch 7](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_7){:target="_blank" rel="noopener"})
+  * AutoML Systems: Autosklearn and ML-Plan ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
 * Coffee Break (30m)
 * Meta-learning for Few-Shot learning (45m, HG)
-  * Transfer Learning(Ch12)
-  * Gradient-based meta-learning (MAML, Reptile, etc) (Ch 13)
-  * Metric-based meta-learning (Prototypical networks) (Ch 13)
+  * Transfer Learning ([Ch 12](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_12){:target="_blank" rel="noopener"})
+  * Gradient-based meta-learning (MAML, Reptile, etc) ([Ch 13](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_13){:target="_blank" rel="noopener"})
+  * Metric-based meta-learning (Prototypical networks) ([Ch 13](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_13){:target="_blank" rel="noopener"})
   * Bayesian Meta-Learning
 * Other important considerations (40m) (PB+JvR)
-  * Design of Configuration Spaces (Ch 8) 
-  * Functional ANOVA (Ch 8)
-  * Automating Data Science(Ch14)
-  * Learning from Meta-data in Repositories (Ch 17)
-  * Designing Complex applications (Ch 15)
-* Outlook (5m, Ch 18)
+  * Design of Configuration Spaces ([Ch 8](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_8){:target="_blank" rel="noopener"})
+  * Functional ANOVA ([Ch 8](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_8){:target="_blank" rel="noopener"})
+  * Automating Data Science ([Ch 14](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_14){:target="_blank" rel="noopener"})
+  * Learning from Meta-data in Repositories ([Ch 17](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_17){:target="_blank" rel="noopener"})
+  * Designing Complex applications ([Ch 15](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_15){:target="_blank" rel="noopener"})
+* Outlook (5m, [Ch 18](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_18){:target="_blank" rel="noopener"})
+
