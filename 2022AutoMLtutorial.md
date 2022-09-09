@@ -1,9 +1,15 @@
 ### Learning Curves for Decision Making in Supervised Machine Learning
 
-Tutorial co-hosted at AutoML 2022. 
+Tutorial co-hosted at [AutoML 2022](https://automl.cc/). 
 
 Date: July 25rd, 2022 (11:00-12:30)
 
+Location: Glass Pavilion, Johns Hopkins University (USA)
+
+
+### Speakers
+* [Felix Mohr](https://www.linkedin.com/in/felix-mohr-83464a220/){:target="_blank" rel="noopener"}, Universidad de La Sabana, Colombia
+* [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn){:target="_blank" rel="noopener"}, Leiden University, The Netherlands
 
 ### Slides and Recording
 
