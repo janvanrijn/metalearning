@@ -1,5 +1,11 @@
 ## Meta-Knowledge Transfer/Communication in Different Systems
-This workshop is co-hosted with [ECML/PKDD 2022 in Grenoble, France](https://2022.ecmlpkdd.org/){:target="_blank" rel="noopener"}. It is a half-day workshop, along with a half-day tutorial on Metalearning. 
+Workshop co-hosted at [ECML/PKDD 2022](https://2022.ecmlpkdd.org/){:target="_blank" rel="noopener"}. 
+
+Date: September 23rd, 2022 (14:30-18:30)
+
+Location: ECML/PKDD Workshops and Tutorials, WTC & Minatec
+
+This workshop is given as combined tutorial/workshop. Before the lunch, we will start with a [tutorial on metalearning](/metalearning/2022ECMLPKDDtutorial). The workshop will mostly be hosted live, in person (but it will be streamed for online participants). 
 
 ### Invited Speakers
 * [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/){:target="_blank" rel="noopener"}, University of Edinburgh, Scotland

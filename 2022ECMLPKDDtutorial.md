@@ -1,10 +1,12 @@
 ### Meta-Knowledge Transfer/Communication in Different Systems
 
-Tutorial co-hosted at ECML/PKDD 2022. 
+Tutorial co-hosted at [ECML/PKDD 2022](https://2022.ecmlpkdd.org/){:target="_blank" rel="noopener"}. 
 
-Date: September 23rd, 2022 (morning)
+Date: September 23rd, 2022 (10:30-13:30)
 
-The tutorial will mostly be given live, in person (but it will be streamed for online participants). A very small part of the tutorial can be pre-recorded.
+Location: ECML/PKDD Workshops and Tutorials, WTC & Minatec
+
+This tutorial is given as combined tutorial/workshop. In the afternoon, the program will continue with [the workshop](/metalearning/2022ECMLPKDDworkshop). Beyond other sources, we will discuss the [book on metalearning](/metalearning/book). The tutorial will mostly be given live, in person (but it will be streamed for online participants). A very small part of the tutorial can be pre-recorded.
 
 ### Abstract
 
@@ -17,6 +19,13 @@ Algorithm selection is concerned with the following question: when given a datas
 More recently, a new problem type emerged from the field of meta-learning, focussing on problem settings where data on the (target) domain is scarce, but plenty of data from a related (source) domain is available (called few-shot learning). Solutions like fine-tuning, gradient-based meta-learning, and metric-based meta- learning attempt to transfer concepts from the source domain towards the target domain. Utilising these techniques, well-performing models can be trained on image-recognition benchmarks with as few as a single example per class.
 
 In this tutorial, we take a problem-oriented approach, where for each problem setting we introduce the problem definition, the logical baselines, and what state-of-the-art methods are currently utilised. We will start with the earlier methods, and show how the more recent and complex methods logically build upon the simpler techniques. We will conclude with an overview of current challenges and state-of-the-art.
+
+
+### Speakers
+* [Pavel Brazdil](http://www.liaad.up.pt/area/pbrazdil/pavel-brazdil){:target="_blank" rel="noopener"}, University of Porto, Portugal
+* [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn){:target="_blank" rel="noopener"}, Leiden University, The Netherlands
+* [Henry Gouk](https://www.henrygouk.com/){:target="_blank" rel="noopener"}, University of Edinburgh, Scotland 
+* [Felix Mohr](https://www.linkedin.com/in/felix-mohr-83464a220/){:target="_blank" rel="noopener"}, Universidad de La Sabana, Colombia
 
 ### Provisional Schedule:
 
