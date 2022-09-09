@@ -20,32 +20,32 @@ In this tutorial, we take a problem-oriented approach, where for each problem se
 
 ### Provisional Schedule:
 
-* Welcome and Introduction (30m, JvR):
+* 10:30 - 10:45: Welcome and Introduction (JvR):
   * Illustrative example of a problem ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"})
   * Problem settings, explaining the relevance ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"})
   * Structure of the Tutorial
-* Meta-learning for Algorithm Selection (45m, PB):
+* 10:45 - 11:25: Meta-learning for Algorithm Selection (PB):
   * Average ranking method ([Ch 2](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_2){:target="_blank" rel="noopener"})
   * Algorithm Selection methods utilising meta-features ([Ch 4](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_4){:target="_blank" rel="noopener"})
   * Active Testing ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
   * Utilising Accuracy and Runtime ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
-  * Utilising Learning Curves ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"}, [Learning Curves Survey](https://arxiv.org/abs/2201.12150){:target="_blank" rel="noopener"})
-* Meta-learning for Pipeline Optimization (45m, FM)
+  * Utilising Learning Curves (FM, [Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"}, [Learning Curves Survey](https://arxiv.org/abs/2201.12150){:target="_blank" rel="noopener"})
+* 11:25 - 12:05: Meta-learning for Pipeline Optimization (FM)
   * Random Search and Grid Search ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
   * Bayesian Optimization ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
   * Automating Workflow/Pipeline Design ([Ch 7](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_7){:target="_blank" rel="noopener"})
   * AutoML Systems: Autosklearn and ML-Plan ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
-* Coffee Break (30m)
-* Meta-learning for Few-Shot learning (45m, HG)
+* 12:05 - 12:15: Small break 
+* 12:15 - 12:55: Meta-learning for Few-Shot learning (HG)
   * Transfer Learning ([Ch 12](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_12){:target="_blank" rel="noopener"})
   * Gradient-based meta-learning (MAML, Reptile, etc) ([Ch 13](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_13){:target="_blank" rel="noopener"})
   * Metric-based meta-learning (Prototypical networks) ([Ch 13](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_13){:target="_blank" rel="noopener"})
   * Bayesian Meta-Learning
-* Other important considerations (40m) (PB+JvR)
+* 12:55 - 13:25: Advanced Topics (PB+JvR)
   * Design of Configuration Spaces ([Ch 8](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_8){:target="_blank" rel="noopener"})
   * Functional ANOVA ([Ch 8](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_8){:target="_blank" rel="noopener"})
   * Automating Data Science ([Ch 14](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_14){:target="_blank" rel="noopener"})
   * Learning from Meta-data in Repositories ([Ch 17](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_17){:target="_blank" rel="noopener"})
   * Designing Complex applications ([Ch 15](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_15){:target="_blank" rel="noopener"})
-* Outlook (5m, [Ch 18](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_18){:target="_blank" rel="noopener"})
+* 13:25 - 13:30: Outlook (PB, [Ch 18](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_18){:target="_blank" rel="noopener"})
 
