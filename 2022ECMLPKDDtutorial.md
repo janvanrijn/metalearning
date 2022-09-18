@@ -39,7 +39,7 @@ In this tutorial, we take a problem-oriented approach, where for each problem se
   * Active Testing ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
   * Utilising Accuracy and Runtime ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
   * Utilising Learning Curves (FM, [Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"}, [Learning Curves Survey](https://arxiv.org/abs/2201.12150){:target="_blank" rel="noopener"})
-* 11:25 - 12:00: Meta-learning for Pipeline Optimization (35m, FM)
+* 11:25 - 12:00: Meta-Learning for Hyperparamter and Pipeline Optimization (35m, FM)
   * Candidate Generating Procedures ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
   * Meta-Learning for Candidate Generating Procedures ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
 * 12:00 - 12:10: Q&A, Small break (10m)
