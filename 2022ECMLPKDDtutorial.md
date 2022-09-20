@@ -4,7 +4,7 @@ Tutorial co-hosted at [ECML/PKDD 2022](https://2022.ecmlpkdd.org/){:target="_bla
 
 Date: September 23rd, 2022 (10:30-13:30)
 
-Location: ECML/PKDD Workshops and Tutorials, @ [WTC in Room Kilimandjaro 3-4](https://2022.ecmlpkdd.org/index.php/2861-2/)
+Location: ECML/PKDD Workshops and Tutorials, @ [WTC in Room Kilimandjaro 3-4](https://2022.ecmlpkdd.org/index.php/2861-2/){:target="_blank" rel="noopener"}
 
 This tutorial is given as combined tutorial/workshop. In the afternoon, the program will continue with [the workshop](/metalearning/2022ECMLPKDDworkshop). Beyond other sources, we will discuss the [book on metalearning](/metalearning/book). The tutorial will mostly be given live, in person (but it will be streamed for online participants). A very small part of the tutorial can be pre-recorded.
 
