@@ -25,7 +25,7 @@ This workshop is given as combined tutorial/workshop. Before the lunch, we will 
 
 17:00 - 17:45 Keynote II by Pascal Hitzler: Some advances regarding ontologies and neuro-symbolic artificial intelligence (Session Chair: Pavel Brazdil)
 
-17:45 - 18:25 Panel Discussion. Panel Host: Henry Gouk. Confirmed Panelists: Marie Anastacio (RWTH Aachen) Pascal Hitzler (Kansas State University, USA), Marco Loog (TU Delft, the Netherlands), Pavel Brazdil (University of Porto, Portugal).
+17:45 - 18:25 Panel Discussion. Panel Host: Henry Gouk. Confirmed Panelists: Marie Anastacio (RWTH Aachen University, Germany) Pascal Hitzler (Kansas State University, USA), Marco Loog (TU Delft, the Netherlands), Pavel Brazdil (University of Porto, Portugal).
 
 18:25 - 18:30 Closing Remarks
 
@@ -53,31 +53,31 @@ We have noticed that there is a mix of participants onsite and online. We are cu
 
 #### Program Committee
 
-* Salisu Abdulrahman	(University of Kano, Nigeria)
+* Salisu Abdulrahman (University of Kano, Nigeria)
 * Annelot Bosman (Leiden University, the Netherlands)
-* André de Carvalho	(University of São Paulo, Brazil)
-* Kemilly Dearo Garcia	(Pegasystems, The Netherlands)
-* Hugo Jair Escalante	(INAOE LG Electronics AI Lab)
+* André de Carvalho (University of São Paulo, Brazil)
+* Kemilly Dearo Garcia (Pegasystems, The Netherlands)
+* Hugo Jair Escalante (INAOE LG Electronics AI Lab)
 * Matthias Feurer (Albert-Ludwigs-Universitaet Freiburg, Germany)
 * Eibe Frank (University of Waikato, NZ)
-* João Gama	(University of Porto, Portugal)
-* Boyan Gao	(University of Edinburgh, Scotland)
-* Christophe (Giraud-Carrier 	Brigham Young University, USA)
-* Rafael Gomes Mantovani	(University of Paraná, Brazil)
-* José Hernández-Orallo	(Universitat Politecnica de Valencia, Spain)
+* João Gama (University of Porto, Portugal)
+* Boyan Gao (University of Edinburgh, Scotland)
+* Christophe Giraud-Carrier (Brigham Young University, USA)
+* Rafael Gomes Mantovani (University of Paraná, Brazil)
+* José Hernández-Orallo (Universitat Politecnica de Valencia, Spain)
 * Mike Huisman (Leiden University, the Netherlands)
-* Boyan Gao	(University of Edinburgh, Portugal)
-* Aaron Klein	(Amazon AWS)
+* Boyan Gao (University of Edinburgh, Portugal)
+* Aaron Klein (Amazon AWS)
 * Matthias König (Leiden University, Netherlands)
-* Pavel Kordik	(CVUT Prague, Czech Republik)
-* Lars Kotthoff	(University of Wyoming, Canada)
-* Bernhard Pfahringer	(Univ. of Waikato, NZ)
-* Adriano Rivolli	(UTFPR, Brazil)
-* Kate Smith-Miles	(University of Melbourne)
-* Carlos Soares	(University of Porto)
+* Pavel Kordik (CVUT Prague, Czech Republik)
+* Lars Kotthoff (University of Wyoming, Canada)
+* Bernhard Pfahringer (Univ. of Waikato, NZ)
+* Adriano Rivolli (UTFPR, Brazil)
+* Kate Smith-Miles (University of Melbourne)
+* Carlos Soares (University of Porto)
 * Peter van der Putten (Leiden University, the Netherlands)
 * Joaquin Vanschoren (Eindhoven Univ. of Technology)
-* Martin Wistuba	(Amazon Development Center Germany GmbH, Berlin)
+* Martin Wistuba (Amazon Development Center Germany GmbH, Berlin)
 
 
 #### Advisory Board
