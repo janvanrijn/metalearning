@@ -25,7 +25,7 @@ This workshop is given as combined tutorial/workshop. Before the lunch, we will 
 
 17:00 - 17:45 Keynote II by Pascal Hitzler: Some advances regarding ontologies and neuro-symbolic artificial intelligence (Session Chair: Pavel Brazdil)
 
-17:45 - 18:25 Panel Discussion. Panel Host: Henry Gouk. Confirmed Panelists: Pascal Hitzler (Kansas State University, USA), Marco Loog (TU Delft, the Netherlands), Pavel Brazdil (University of Porto, Portugal).
+17:45 - 18:25 Panel Discussion. Panel Host: Henry Gouk. Confirmed Panelists: Marie Anastacio (RWTH Aachen) Pascal Hitzler (Kansas State University, USA), Marco Loog (TU Delft, the Netherlands), Pavel Brazdil (University of Porto, Portugal).
 
 18:25 - 18:30 Closing Remarks
 
