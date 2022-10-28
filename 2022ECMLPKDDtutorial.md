@@ -17,26 +17,26 @@ This tutorial is given as combined tutorial/workshop. In the afternoon, the prog
 ### Provisional Schedule:
 
 * 10:30 - 10:45: Welcome and Introduction (15m, JvR) 
-[<img src="GFX/pdffile.png" width="20" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial01_Introduction.pdf){:target="_blank" rel="noopener"}
+[<img src="GFX/pdffile.png" width="10" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial01_Introduction.pdf){:target="_blank" rel="noopener"}
   * Illustrative example of a problem ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"}) 
   * Problem settings, explaining the relevance ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"})
   * Structure of the Tutorial
-* 10:45 - 11:25: Meta-learning for Algorithm Selection (40m, PB):
+* 10:45 - 11:25: Meta-learning for Algorithm Selection (40m, PB): [<img src="GFX/pdffile.png" width="10" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial02_AlgorithmSelection.pdf){:target="_blank" rel="noopener"}
   * Average ranking method ([Ch 2](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_2){:target="_blank" rel="noopener"})
   * Algorithm Selection methods utilising meta-features ([Ch 4](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_4){:target="_blank" rel="noopener"})
   * Active Testing ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
   * Utilising Accuracy and Runtime ([Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"})
   * Utilising Learning Curves (FM, [Ch 5](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_5){:target="_blank" rel="noopener"}, [Learning Curves Survey](https://arxiv.org/abs/2201.12150){:target="_blank" rel="noopener"})
-* 11:25 - 12:00: Meta-Learning for Hyperparamter and Pipeline Optimization (35m, FM)
+* 11:25 - 12:00: Meta-Learning for Hyperparamter and Pipeline Optimization (35m, FM) [<img src="GFX/pdffile.png" width="10" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial03_PipelineOptimization.pdf){:target="_blank" rel="noopener"}
   * Candidate Generating Procedures ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
   * Meta-Learning for Candidate Generating Procedures ([Ch 6](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_6){:target="_blank" rel="noopener"})
 * 12:00 - 12:10: Q&A, Small break (10m)
-* 12:10 - 12:50: Meta-learning for Few-Shot learning (40m, HG)
+* 12:10 - 12:50: Meta-learning for Few-Shot learning (40m, HG) [<img src="GFX/pdffile.png" width="10" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial04_NeuralNetworks.pdf){:target="_blank" rel="noopener"}
   * Transfer Learning ([Ch 12](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_12){:target="_blank" rel="noopener"})
   * Gradient-based meta-learning (MAML, Reptile, etc) ([Ch 13](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_13){:target="_blank" rel="noopener"})
   * Metric-based meta-learning (Prototypical networks) ([Ch 13](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_13){:target="_blank" rel="noopener"})
   * Bayesian Meta-Learning
-* 12:50 - 13:25: Advanced Topics (35m, PB+JvR)
+* 12:50 - 13:25: Advanced Topics (35m, PB+JvR) [<img src="GFX/pdffile.png" width="10" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial05_AdvancedTopicsI.pdf){:target="_blank" rel="noopener"}[<img src="GFX/pdffile.png" width="10" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial06_AdvancedTopicsII.pdf){:target="_blank" rel="noopener"}
   * Learning from Meta-data in Repositories (JvR, [Ch 17](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_17){:target="_blank" rel="noopener"})
   * Functional ANOVA (JvR, [Ch 8](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_8){:target="_blank" rel="noopener"})
   * Design of Configuration Spaces (PB, [Ch 8](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_8){:target="_blank" rel="noopener"})
