@@ -16,8 +16,9 @@ This tutorial is given as combined tutorial/workshop. In the afternoon, the prog
 
 ### Provisional Schedule:
 
-* 10:30 - 10:45: Welcome and Introduction (15m, JvR):
-  * Illustrative example of a problem ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"})
+* 10:30 - 10:45: Welcome and Introduction (15m, JvR) 
+[<img src="GFX/pdffile.png" width="20" />](/metalearning/content/2022ECMLPKDD_tutorial/MetalearningTutorial01_Introduction.pdf){:target="_blank" rel="noopener"}
+  * Illustrative example of a problem ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"}) 
   * Problem settings, explaining the relevance ([Ch 1](https://link.springer.com/chapter/10.1007/978-3-030-67024-5_1){:target="_blank" rel="noopener"})
   * Structure of the Tutorial
 * 10:45 - 11:25: Meta-learning for Algorithm Selection (40m, PB):
