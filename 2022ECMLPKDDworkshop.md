@@ -11,7 +11,7 @@ This workshop is given as combined tutorial/workshop. Before the lunch, we will 
 * [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/){:target="_blank" rel="noopener"}, University of Edinburgh, Scotland
   * Title: Meta-learning for Knowledge Transfer
 * [Pascal Hitzler](https://people.cs.ksu.edu/~hitzler/){:target="_blank" rel="noopener"}, Kansas State University, USA
-  * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence
+  * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence [abstract](/metalearning/content/2022ECMLPKDD_proceedings/Hitzler22a.pdf){:target="_blank" rel="noopener"}
 
 ### Program (tentative)
 
@@ -31,11 +31,11 @@ This workshop is given as combined tutorial/workshop. Before the lunch, we will 
 
 We have noticed that there is a mix of participants onsite and online. We are currently investigating how we can best facilitate interaction between both audiences.
 
-### Accepted Papers (pre-proceedings)
+### Accepted Papers (edited proceedings)
 
 * [M. Anastacio, T. Matricon, H. H. Hoos, Instance selection for configuration performance comparison](/metalearning/content/2022ECMLPKDD_proceedings/Anastacio22a.pdf){:target="_blank" rel="noopener"}
 * [D. Carrion-Ojeda, H. Chen, A. El Baz, S. Escalera, C. Guan, I. Guyon, I. Ullah, X. Wang, W. Zhu, NeurIPS’22 Cross-Domain MetaDL competition: Design and baseline results](/metalearning/content/2022ECMLPKDD_proceedings/Carrion-Ojeda22a.pdf){:target="_blank" rel="noopener"}
-* [D. Deng, M. Lindauer, Searching in the Forest for Local Bayesian Optimization](/metalearning/content/2022ECMLPKDD_proceedings/Deng22a.pdf){:target="_blank" rel="noopener"}
+* [D. Deng, M. Lindauer, Searching in the Forest for Local Bayesian Optimization](/metalearning/content/2022ECMLPKDD_proceedings/Deng22a.pdf){:target="_blank" rel="noopener"} [supplement](/metalearning/content/2022ECMLPKDD_proceedings/Deng22a-supp.pdf){:target="_blank" rel="noopener"}
 * [G. Franken, P. Singh, J. Vanschoren, Faster Performance Estimation for NAS with Embedding Proximity Score](/metalearning/content/2022ECMLPKDD_proceedings/Franken22a.pdf){:target="_blank" rel="noopener"}
 * [A. Gosiewska, K. Woznica, P. Biecek, Interpretable Meta-Score for Model Performance (Extended Abstract)](/metalearning/content/2022ECMLPKDD_proceedings/Gosiewska22a.pdf){:target="_blank" rel="noopener"}
 * [D. Hetlerovic, L. Popelinsky, P. Brazdil, C. Soares, F. Freitas, On Usefulness of Outlier Elimination in Classification Tasks (Extended Abstract)](/metalearning/content/2022ECMLPKDD_proceedings/Hetlerovic22a.pdf){:target="_blank" rel="noopener"}
