@@ -11,7 +11,7 @@ This workshop is given as combined tutorial/workshop. Before the lunch, we will 
 * [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/){:target="_blank" rel="noopener"}, University of Edinburgh, Scotland
   * Title: Meta-learning for Knowledge Transfer
 * [Pascal Hitzler](https://people.cs.ksu.edu/~hitzler/){:target="_blank" rel="noopener"}, Kansas State University, USA
-  * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence ([abstract](/metalearning/content/2022ECMLPKDD_proceedings/Hitzler22a.pdf){:target="_blank" rel="noopener"})
+  * Title: Some advances regarding ontologies and neuro-symbolic artificial intelligence ([abstract](/metalearning/content/2022ECMLPKDD_proceedings/Hitzler22a.pdf){:target="_blank" rel="noopener"}, [slides](/metalearning/content/2022ECMLPKDD_slides/Hitzler.pdf){:target="_blank" rel="noopener"})
 
 ### Program
 
