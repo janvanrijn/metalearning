@@ -26,6 +26,7 @@ The goal of this workshop is to explore ways in which ideas can be cross-pollina
 This could lead to, e.g., systems with interpretable meta-knowledge, and tighter integration between machine learning workflows and automated reasoning systems.
 
 Main research areas:
+
 * Controlling the learning processes
 * Definitions of configuration spaces
 * Few-shot learning
