@@ -7,7 +7,7 @@ Location: TBD
 
 ### Organization
 
-#### General organizers / Program Chairs
+#### General organizers / Program Chairs (ordered by last name)
 * [Pavel Brazdil](http://www.liaad.up.pt/area/pbrazdil/pavel-brazdil){:target="_blank" rel="noopener"}, University of Porto, Portugal
 * [Henry Gouk](https://www.henrygouk.com/){:target="_blank" rel="noopener"}, University of Edinburgh, Scotland
 * [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn){:target="_blank" rel="noopener"}, Leiden University, The Netherlands
