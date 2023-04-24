@@ -8,3 +8,4 @@ On this website, we aim to keep track of various scientific resources regarding 
 * Tutorial on `Learning Curves for Decision Making in Supervised Machine Learning` @ AutoML 2022
 * Workshop on `Meta-Knowledge Transfer/Communication in Different Systems` @ ECML/PKDD 2022
 * Tutorial on `Meta-Knowledge Transfer/Communication in Different Systems` @ ECML/PKDD 2022
+* Workshop on `Neuro-symbolic Metalearning and AutoML` @ ECML/PKDD 2023
