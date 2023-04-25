@@ -5,6 +5,12 @@ Date: September 2023 (exact date TBD)
 
 Location: TBD
 
+
+### Invited Speakers
+
+* [Artur d'Avila Garcez](https://www.city.ac.uk/about/people/academics/artur-davila-garcez){:target="_blank" rel="noopener"}, City University of London, UK
+* More invited speakers soon to be confirmed. 
+
 ### Organization
 
 #### General organizers / Program Chairs (ordered by last name)
