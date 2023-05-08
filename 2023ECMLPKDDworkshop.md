@@ -49,6 +49,15 @@ Main research areas:
 * Explainable and interpretable meta-learning
 * Explainable artificial intelligence
 
+### Submission
+
+This workshop hosts two tracks:
+
+* Original paper track: Authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the LaTeX [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs){:target="_blank" rel="noopener"} format, maximal 12 pages.
+* Poster of already published work: Authors can apply for a poster spot for a paper that has recently (less than 2 years) been published elsewhere. During submission, you send a link to the already published version of the work, and the peer-review will determine whether it is a good match based on the topic. 
+
+Submissions go through [the Conference Management Tool](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/){:target="_blank" rel="noopener"}. 
+
 ### Format of the Workshop
 
 The workshop will last a half a day, as it is forms part of a combined tutorial-workshop. It will include: 
@@ -60,7 +69,7 @@ The workshop will last a half a day, as it is forms part of a combined tutorial-
 
 ### Proceedings
 
-The organizers are planning to prepare formal proceedings. The authors of accepted papers can decide whether they wish to have their full paper included or not. In the latter case, publication of short abstract would be possible.
+Accepted papers can dedide to opt-in to the formal workshop proceedings of ECML/PKDD 2023. The authors of accepted papers can decide whether they wish to have their full paper included or not. In the latter case, publication of short abstract would be possible.
 
 ### Important Dates
 
