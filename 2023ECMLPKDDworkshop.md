@@ -24,11 +24,12 @@ This workshop explores different types of meta-knowledge, such as performance su
 One way of acquiring meta-knowledge is by observing learning processes and representing it in such a way that it can be used later to improve future learning processes. 
 AutoML systems typically explore meta-knowledge acquired from a single task, e.g., by modelling the relationship between hyperparameters and model performance. 
 Metalearning systems, on the other hand, normally explore metaknowledge acquired on a collection of machine learning tasks. 
-This can be used not only for selection of the best workflow(s) for the current task, but also for adaptation and fine-tuning of a prior model to the new task. Many current AutoML and metalearning systems exploit both types of meta-knowledge. 
-Neuro-symbolic systems explores the interplay between the neural network-based learning and symbol-based learning to get the best of those two types of learning. 
-While doing so, it tries to use the existing knowledge as a concrete symbolic representation or as a transformed version of the symbolic representation suited for the learning algorithm.
+This can be used not only for selection of the best workflow(s) for the current task, but also for adaptation and fine-tuning of a prior model to the new task. 
+Many current AutoML and metalearning systems exploit both types of meta-knowledge. 
+Neuro-symbolic systems explore the interplay between neural network-based learning and symbol-based learning to get the best of those two types of learning. 
+While doing so, it tries to use the existing knowledge as a concrete symbolic representation or as a transformed version of the symbolic representation suited for the learning algorithm. 
 The goal of this workshop is to explore ways in which ideas can be cross-pollinated between the AutoML/Metalearning and neuro-symbolic learning research communities. 
-This could lead to, e.g., systems with interpretable meta-knowledge, and tighter integration between machine learning workflows and automated reasoning systems.
+This could lead to, e.g., systems with interpretable meta-knowledge, and tighter integration between machine learning workflows and automated reasoning systems. 
 
 Main research areas:
 
@@ -59,7 +60,7 @@ Submissions go through [the Conference Management Tool](https://cmt3.research.mi
 
 ### Format of the Workshop
 
-The workshop will last a half a day, as it is forms part of a combined tutorial-workshop. It will include: 
+The workshop will last a half a day. It will include: 
 
 * Invited talks
 * Short oral presentations
@@ -68,11 +69,13 @@ The workshop will last a half a day, as it is forms part of a combined tutorial-
 
 ### Proceedings
 
-Accepted papers can dedide to opt-in to the formal workshop proceedings of ECML/PKDD 2023. The authors of accepted papers can decide whether they wish to have their full paper included or not. In the latter case, publication of short abstract would be possible.
+Accepted papers can decide to opt-in to the formal workshop proceedings of ECML/PKDD 2023. The authors of accepted papers can decide whether they wish to have their full paper included or not. In the latter case, publication of a short abstract would be possible.
 
 ### Important Dates
 
 * Workshop Paper Submission Deadline: 12 June 2023
 * Workshop Paper Author Notification: 17 July 2023
-* The exact date of the workshop will be determined by the ECML/PKDD program chairs
+* Camera Ready Deadline: End of July 2023
+* Workshop: September 18, 2023 (afternoon)
+
 
