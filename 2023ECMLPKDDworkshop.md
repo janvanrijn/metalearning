@@ -1,10 +1,9 @@
 ## Neuro-symbolic Metalearning and AutoML
 Workshop co-hosted at [ECML/PKDD 2023](https://2023.ecmlpkdd.org/){:target="_blank" rel="noopener"}. 
 
-Date: September 2023 (exact date TBD)
+Date: September 18, 2023 (afternoon)
 
-Location: TBD
-
+Location: Pending the ECML/PKDD room allocation
 
 ### Invited Speakers
 
