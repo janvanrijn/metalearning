@@ -58,6 +58,8 @@ This workshop hosts two tracks:
 
 Submissions go through [the Conference Management Tool](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/){:target="_blank" rel="noopener"}. 
 
+Please use the [template suggested by the organisation of ECML/PKDD](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6){:target="_blank" rel="noopener"}
+
 ### Format of the Workshop
 
 The workshop will last a half a day. It will include: 
