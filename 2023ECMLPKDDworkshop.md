@@ -49,6 +49,23 @@ Main research areas:
 * Explainable and interpretable meta-learning
 * Explainable artificial intelligence
 
+### Program Committee
+
+* Shikha Bordia(Verisk Analytics)
+* Kemilly	Dearo
+* Hugo Jair Escalante(INAOE)
+* Eibe Frank (University of Waikato)
+* Joao Gama (INESC TEC - LIAAD)
+* Dagmar Gromann
+* Filip Ilievski (USC/ISI)
+* Pavel Kordík (Czech Technical University in Prague)
+* Lars Kotthoff (University of Wyoming)
+* Bo Liu (Auburn University)
+* Robin Manhaeve (KU Leuven)
+* Bernhard Pfahringer (University of Waikato)
+* Peter van der Putten (Leiden University)
+* Martin Wistuba (Amazon)
+
 ### Submission
 
 This workshop hosts two tracks:
