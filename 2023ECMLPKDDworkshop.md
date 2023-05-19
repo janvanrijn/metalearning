@@ -51,12 +51,12 @@ Main research areas:
 
 ### Program Committee
 
-* Shikha Bordia(Verisk Analytics)
-* Kemilly	Dearo
+* Shikha Bordia (Verisk Analytics)
+* Kemilly Dearo
 * Hugo Jair Escalante(INAOE)
 * Eibe Frank (University of Waikato)
 * Joao Gama (INESC TEC - LIAAD)
-* Dagmar Gromann
+* Dagmar Gromann (University of Vienna)
 * Filip Ilievski (USC/ISI)
 * Pavel Kordík (Czech Technical University in Prague)
 * Lars Kotthoff (University of Wyoming)
