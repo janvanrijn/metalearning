@@ -8,7 +8,7 @@ Location: Pending the ECML/PKDD room allocation
 ### Invited Speakers
 
 * [Artur d'Avila Garcez](https://www.city.ac.uk/about/people/academics/artur-davila-garcez){:target="_blank" rel="noopener"}, City University of London, UK
-* More invited speakers soon to be confirmed. 
+* [Bernhard Pfahringer](https://profiles.waikato.ac.nz/bernhard.pfahringer){:target="_blank" rel="noopener"}, University of Waikato, New Zealand
 
 ### Organization
 
