@@ -92,8 +92,8 @@ Accepted papers can decide to opt-in to the formal workshop proceedings of ECML/
 
 ### Important Dates
 
-* Workshop Paper Submission Deadline: 12 June 2023
-* Workshop Paper Author Notification: 17 July 2023
+* Workshop Paper Submission Deadline: ~~June 12, 2023~~ June 26 (updated)
+* Workshop Paper Author Notification: ~~July 17, 2023~~ July 24 (updated)
 * Camera Ready Deadline: End of July 2023
 * Workshop: September 18, 2023 (afternoon)
 
