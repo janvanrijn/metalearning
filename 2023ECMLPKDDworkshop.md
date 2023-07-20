@@ -5,6 +5,12 @@ Date: September 18, 2023 (afternoon)
 
 Location: Pending the ECML/PKDD room allocation
 
+### News ###
+
+* Notifications of acceptance have been send out, and a list of accepted papers will soon appear on the website. Papers that were submitted after the original deadline are still under review. 
+* We are preparing a track on "late breaking posters" (deadline August 31st, light review, no option for proceedings). More information on this will follow. 
+
+
 ### Invited Speakers
 
 * [Artur d'Avila Garcez](https://www.city.ac.uk/about/people/academics/artur-davila-garcez){:target="_blank" rel="noopener"}, City University of London, UK
