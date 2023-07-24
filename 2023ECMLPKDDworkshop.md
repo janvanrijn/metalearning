@@ -8,7 +8,7 @@ Location: Pending the ECML/PKDD room allocation
 ### News ###
 
 * Notifications of acceptance have been send out, and a list of accepted papers will soon appear on the website. Papers that were submitted after the original deadline are still under review. 
-* We are preparing a track on "late breaking posters" (deadline August 31st, light review, no option for proceedings). More information on this will follow. 
+* Please note our track on `Late breaking papers` (deadline August 31st, light review, no option for proceedings). We now accept submissions for these. 
 
 
 ### Invited Speakers
@@ -74,12 +74,13 @@ Main research areas:
 
 ### Submission
 
-This workshop hosts two tracks:
+This workshop hosts the following tracks:
 
-* Original paper track: Authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the LaTeX [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs){:target="_blank" rel="noopener"} format, maximal 12 pages.
-* Poster of already published work: Authors can apply for a poster spot for a paper that has recently (less than 2 years) been published elsewhere. During submission, you send a link to the already published version of the work, and the peer-review will determine whether it is a good match based on the topic. 
+* Original paper track: Authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the LaTeX [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs){:target="_blank" rel="noopener"} format, maximal 12 pages. (closed)
+* Poster of already published work: Authors can apply for a poster spot for a paper that has recently (less than 2 years) been published elsewhere. During submission, you send a link to the already published version of the work, and the peer-review will determine whether it is a good match based on the topic. (closed)
+* Late breaking papers: Authors can submit a 2-page abstract of already published work, or work to be published, that will undergo a light review process tailored towards applicability towards the workshop. The work will end up in the proceedings. 
 
-Submissions go through [the Conference Management Tool](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/){:target="_blank" rel="noopener"}. 
+Submissions go through [the Conference Management Tool](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/){:target="_blank" rel="noopener"}, please ensure to select the right track: `Neuro-symbolic Metalearning and AutoML`. 
 
 Please use the [template suggested by the organisation of ECML/PKDD](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6){:target="_blank" rel="noopener"}
 
@@ -98,9 +99,10 @@ Accepted papers can decide to opt-in to the formal workshop proceedings of ECML/
 
 ### Important Dates
 
-* Workshop Paper Submission Deadline: ~~June 12, 2023~~ June 26 (updated)
-* Workshop Paper Author Notification: ~~July 17, 2023~~ July 24 (updated)
-* Camera Ready Deadline: End of July 2023
+* Workshop paper submission deadline: June 26, 2023 (updated)
+* Workshop paper author notification: July 24, 2023 (updated)
+* Camera ready deadline: End of July 2023
+* Late breaking papers submission deadline: August 31st, 2023
 * Workshop: September 18, 2023 (afternoon)
 
 
