@@ -16,6 +16,24 @@ Location: Pending the ECML/PKDD room allocation
 * [Artur d'Avila Garcez](https://www.city.ac.uk/about/people/academics/artur-davila-garcez){:target="_blank" rel="noopener"}, City University of London, UK
 * [Bernhard Pfahringer](https://profiles.waikato.ac.nz/bernhard.pfahringer){:target="_blank" rel="noopener"}, University of Waikato, New Zealand
 
+
+### Program 
+
+14:30 - 14:40 opening
+14:40 - 15:15 keynote I
+15:15 - 15:50 keynote II
+15:50 - 16:00 poster session (start)
+16:00 - 16:30 coffee break + poster session
+16:30 - 17:05 keynote III
+17:05 - 17:25 selected paper presentation I
+17:25 - 17:45 selected paper presentation II
+17:45 - 18:00 closing
+
+
+### List of Posters 
+
+Will be announced soon.
+
 ### Organization
 
 #### General organizers / Program Chairs (ordered by last name)
