@@ -40,7 +40,7 @@ Will be announced soon.
 * [Pavel Brazdil](http://www.liaad.up.pt/area/pbrazdil/pavel-brazdil){:target="_blank" rel="noopener"}, University of Porto, Portugal
 * [Henry Gouk](https://www.henrygouk.com/){:target="_blank" rel="noopener"}, University of Edinburgh, Scotland
 * [Jan N. van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn){:target="_blank" rel="noopener"}, Leiden University, The Netherlands
-* [Md Kamruzzaman Sarker](https://www.hartford.edu/directory/arts-science/sarker-md-kamruzzaman.aspx){:target="_blank" rel="noopener"}, University of Hartford, USA
+* [Md Kamruzzaman Sarker](https://mdkzaman.com/){:target="_blank" rel="noopener"}, Bowie State University, USA
 
 
 ### Call For Papers
