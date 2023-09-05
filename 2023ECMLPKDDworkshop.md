@@ -21,7 +21,7 @@ Location: Aula 4i
 ### Program 
 
 * 14:30 - 14:40 opening
-* 14:40 - 15:15 keynote by Bernhard Pfahringer
+* 14:40 - 15:15 keynote by Bernhard Pfahringer: Learning from Data Streams versus Continual Learning
 * 15:15 - 15:50 keynote by Artur d'Avila Garcez
 * 15:50 - 16:00 poster session (start)
 * 16:00 - 16:30 coffee break + poster session
