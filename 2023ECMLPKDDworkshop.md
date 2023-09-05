@@ -90,12 +90,14 @@ Main research areas:
 * Joao Gama (INESC TEC - LIAAD)
 * Dagmar Gromann (University of Vienna)
 * Filip Ilievski (USC/ISI)
+* Adwaita Jadhav (Apple)
 * Pavel Kordík (Czech Technical University in Prague)
 * Lars Kotthoff (University of Wyoming)
 * Bo Liu (Auburn University)
 * Robin Manhaeve (KU Leuven)
 * Bernhard Pfahringer (University of Waikato)
 * Peter van der Putten (Leiden University)
+* Thalea Schlender (CWI, LUMC)
 * Martin Wistuba (Amazon)
 
 ### Submission
