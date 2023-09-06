@@ -21,14 +21,15 @@ Location: Aula 4i
 ### Program 
 
 * 14:30 - 14:40 opening
-* 14:40 - 15:15 keynote by Bernhard Pfahringer: Learning from Data Streams versus Continual Learning
-* 15:15 - 15:50 keynote by Artur d'Avila Garcez
+* 14:40 - 15:15 keynote by **Bernhard Pfahringer: Learning from Data Streams versus Continual Learning**
+* 15:15 - 15:50 keynote by **Artur d'Avila Garcez**
 * 15:50 - 16:00 poster session (start)
 * 16:00 - 16:30 coffee break + poster session
-* 16:30 - 17:05 keynote by Carlos Soares: GASTeN: Generative Adversarial Stress Test Networks
-* 17:05 - 17:25 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): Robust and explainable identification of logical fallacies in natural language arguments
-* 17:25 - 17:45 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks
-* 17:45 - 18:00 closing
+* 16:30 - 16:40 poster session (finish)
+* 16:40 - 17:15 keynote by **Carlos Soares: GASTeN: Generative Adversarial Stress Test Networks**
+* 17:15 - 17:35 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): Robust and explainable identification of logical fallacies in natural language arguments
+* 17:35 - 17:55 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks
+* 17:55 - 18:00 closing
 
 
 ### List of Posters 
@@ -106,7 +107,7 @@ This workshop hosts the following tracks:
 
 * Original paper track: Authors can submit novel papers, that have not been accepted elsewhere. Please format your submission according to the LaTeX [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs){:target="_blank" rel="noopener"} format, maximal 12 pages. (closed)
 * Poster of already published work: Authors can apply for a poster spot for a paper that has recently (less than 2 years) been published elsewhere. During submission, you send a link to the already published version of the work, and the peer-review will determine whether it is a good match based on the topic. (closed)
-* Late breaking papers: Authors can submit a 2-page abstract of already published work, or work to be published, that will undergo a light review process tailored towards applicability towards the workshop. The work will end up in the proceedings. 
+* Late breaking papers: Authors can submit a 2-page abstract of already published work, or work to be published, that will undergo a light review process tailored towards applicability towards the workshop. The work will end up in the proceedings. (closed)
 
 Submissions go through [the Conference Management Tool](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/){:target="_blank" rel="noopener"}, please ensure to select the right track: `Neuro-symbolic Metalearning and AutoML`. 
 
@@ -132,5 +133,3 @@ Accepted papers can decide to opt-in to the formal workshop proceedings of ECML/
 * Camera ready deadline: End of July 2023
 * Late breaking papers submission deadline: August 31st, 2023
 * Workshop: September 18, 2023 (afternoon)
-
-
