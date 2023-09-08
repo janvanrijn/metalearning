@@ -3,7 +3,7 @@ Workshop co-hosted at [ECML/PKDD 2023](https://2023.ecmlpkdd.org/){:target="_bla
 
 Date: September 18, 2023 (afternoon)
 
-Location: Aula 4i
+Location: PoliTo Room 4i
 
 ### News ###
 
