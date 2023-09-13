@@ -26,22 +26,22 @@ Location: PoliTo Room 4i
 * 15:50 - 16:00 poster session (start)
 * 16:00 - 16:30 coffee break + poster session
 * 16:30 - 16:40 poster session (finish)
-* 16:40 - 17:15 keynote by **Carlos Soares: GASTeN: Generative Adversarial Stress Test Networks**
-* 17:15 - 17:35 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): Robust and explainable identification of logical fallacies in natural language arguments
-* 17:35 - 17:55 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks
+* 16:40 - 17:15 keynote by **Carlos Soares: Synthetic data for a better understanding of models and algorithms: GANs for stress testing and other methods**
+* 17:15 - 17:35 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): **Robust and explainable identification of logical fallacies in natural language arguments**
+* 17:35 - 17:55 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): **Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks**
 * 17:55 - 18:00 closing
 
 
 ### List of Posters 
 
-* Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks
-* Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): Robust and explainable identification of logical fallacies in natural language arguments
-* Kaixin Ma (Carnegie Mellon University); Filip Ilievski (USC/ISI); Jonathan M Francis (Carnegie Mellon University); Eric Nyberg (CMU); Alessandro Oltramari (Bosch Research Pittsburgh): Coalescing Global and Local Information for Procedural Text Understanding
-* Jiarui Zhang (USC/ISI); Filip Ilievski (USC/ISI); Kaixin Ma (CMU); Jonathan M Francis (Bosch Center for AI; Carnegie Mellon University); Alessandro Oltramari (Bosch Research Pittsburgh): A Study of Zero-shot Adaptation with Commonsense Knowledge
-* Mansour Sami (Edinburgh Napier University); ASHKAN SAMI (Edinburgh Napier University); Peter Barclay (Edinburgh Napier University): Unveiling the Boundaries: Diversity Guardrails in Generative AI and Their Limitations
-* Inês Gomes (University of Porto); Carlos Soares (University of Porto); Luis F Teixeira (INESC TEC and University of Porto); Jan N. van Rijn (Leiden University); André Restivo (University of Porto): Interpretable Generative Stress Testing
-* Fernando Freitas (University of Porto); Pavel Brazdil (INESC TEC); Carlos Soares (University of Porto): Exploring the Reduction of Configuration Spaces of Workflows
-* Lionel Kielhofer (Leiden University); Felix Mohr (Universidad de La Sabana); Jan N. van Rijn (Leiden University): Learning curve extrapolation techniques across extrapolation settings
+* Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): **Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks**
+* Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): **Robust and explainable identification of logical fallacies in natural language arguments**
+* Kaixin Ma (Carnegie Mellon University); Filip Ilievski (USC/ISI); Jonathan M Francis (Carnegie Mellon University); Eric Nyberg (CMU); Alessandro Oltramari (Bosch Research Pittsburgh): **Coalescing Global and Local Information for Procedural Text Understanding**
+* Jiarui Zhang (USC/ISI); Filip Ilievski (USC/ISI); Kaixin Ma (CMU); Jonathan M Francis (Bosch Center for AI; Carnegie Mellon University); Alessandro Oltramari (Bosch Research Pittsburgh): **A Study of Zero-shot Adaptation with Commonsense Knowledge**
+* Mansour Sami (Edinburgh Napier University); ASHKAN SAMI (Edinburgh Napier University); Peter Barclay (Edinburgh Napier University): Unveiling the Boundaries: **Diversity Guardrails in Generative AI and Their Limitations**
+* Inês Gomes (University of Porto); Carlos Soares (University of Porto); Luis F Teixeira (INESC TEC and University of Porto); Jan N. van Rijn (Leiden University); André Restivo (University of Porto): **Interpretable Generative Stress Testing**
+* Fernando Freitas (University of Porto); Pavel Brazdil (INESC TEC); Carlos Soares (University of Porto): **Exploring the Reduction of Configuration Spaces of Workflows**
+* Lionel Kielhofer (Leiden University); Felix Mohr (Universidad de La Sabana); Jan N. van Rijn (Leiden University): **Learning curve extrapolation techniques across extrapolation settings**
 
 ### Organization
 
