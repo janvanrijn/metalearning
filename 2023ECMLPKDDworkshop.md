@@ -5,12 +5,6 @@ Date: September 18, 2023 (afternoon)
 
 Location: PoliTo Room 4i
 
-### News ###
-
-* Notifications of acceptance have been send out, and a list of accepted papers will soon appear on the website. Papers that were submitted after the original deadline are still under review. 
-* Please note our track on `Late breaking papers` (deadline August 31st, light review, no option for proceedings). We now accept submissions for these. 
-
-
 ### Invited Speakers
 
 * [Carlos Soares](https://sigarra.up.pt/feup/en/func_geral.formview?p_codigo=235847){:target="_blank" rel="noopener"}, University of Porto, Portugal
