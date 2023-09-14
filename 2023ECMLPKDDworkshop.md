@@ -35,7 +35,6 @@ Location: PoliTo Room 4i
 ### List of Posters 
 
 * Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): **Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks**
-* Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): **Robust and explainable identification of logical fallacies in natural language arguments**
 * Kaixin Ma (Carnegie Mellon University); Filip Ilievski (USC/ISI); Jonathan M Francis (Carnegie Mellon University); Eric Nyberg (CMU); Alessandro Oltramari (Bosch Research Pittsburgh): **Coalescing Global and Local Information for Procedural Text Understanding**
 * Jiarui Zhang (USC/ISI); Filip Ilievski (USC/ISI); Kaixin Ma (CMU); Jonathan M Francis (Bosch Center for AI; Carnegie Mellon University); Alessandro Oltramari (Bosch Research Pittsburgh): **A Study of Zero-shot Adaptation with Commonsense Knowledge**
 * Mansour Sami (Edinburgh Napier University); ASHKAN SAMI (Edinburgh Napier University); Peter Barclay (Edinburgh Napier University): Unveiling the Boundaries: **Diversity Guardrails in Generative AI and Their Limitations**
