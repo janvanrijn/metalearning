@@ -22,7 +22,7 @@ Location: PoliTo Room 4i
 * 16:30 - 16:40 poster session (finish)
 * 16:40 - 17:00 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): **Robust and explainable identification of logical fallacies in natural language arguments**
 * 17:00 - 17:20 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): **Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks**
-* 17:20 - 17:55 keynote by **Artur d'Avila Garcez**
+* 17:20 - 17:55 keynote by **Artur d'Avila Garcez: Neurosymbolic AI Contributions to Metalearning**
 * 17:55 - 18:00 closing
 
 
