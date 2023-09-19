@@ -14,7 +14,7 @@ Location: PoliTo Room 4i
 
 ### Program 
 
-* 14:30 - 14:40 opening
+* 14:30 - 14:40 opening [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/Intro.pdf){:target="_blank" rel="noopener"}
 * 14:40 - 15:15 keynote by **Bernhard Pfahringer: Learning from Data Streams versus Continual Learning**
 * 15:15 - 15:35 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): **Robust and explainable identification of logical fallacies in natural language arguments**
 * 15:35 - 15:55 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): **Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks**
