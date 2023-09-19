@@ -15,13 +15,13 @@ Location: PoliTo Room 4i
 ### Program 
 
 * 14:30 - 14:40 opening [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/Intro.pdf){:target="_blank" rel="noopener"}
-* 14:40 - 15:15 keynote by **Bernhard Pfahringer: Learning from Data Streams versus Continual Learning**
-* 15:15 - 15:35 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): **Robust and explainable identification of logical fallacies in natural language arguments**
-* 15:35 - 15:55 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): **Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks**
+* 14:40 - 15:15 keynote by **Bernhard Pfahringer: Learning from Data Streams versus Continual Learning** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/Pfahringer.pdf){:target="_blank" rel="noopener"}
+* 15:15 - 15:35 selected paper presentation I: Zhivar Sourati Hassan Zadeh (Information Sciences Institute); Vishnu Priya Prasanna Venkatesh (USC/ISI); Darshan Deshpande (USC/ISI); Himanshu Rawlani (USC/ISI); Filip Ilievski (USC/ISI); Hông Ân Sandlin (Cyber-Defence Campus, armasuisse Science and Technology); Alain Mermoud (Cyber-Defence Campus, armasuisse Science and Technology): **Robust and explainable identification of logical fallacies in natural language arguments** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/Ilievski.pdf){:target="_blank" rel="noopener"}
+* 15:35 - 15:55 selected paper presentation II: Katarzyna Woźnica (Warsaw University of Technology); Mateusz Grzyb (Warsaw University of Technology); Zuzanna Trafas (Poznan University of Technology); Przemyslaw Biecek (Warsaw University of Technology): **Consolidated learning - a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/Woznica.pdf){:target="_blank" rel="noopener"}
 * 16:00 - 16:30 coffee break + poster session
 * 16:30 - 16:45 poster session (finish)
-* 16:45 - 17:20 keynote by **Carlos Soares: Synthetic data for a better understanding of models and algorithms: GANs for stress testing and other methods**
-* 17:20 - 17:55 keynote by **Artur d'Avila Garcez: Neurosymbolic AI Contributions to Metalearning**
+* 16:45 - 17:20 keynote by **Carlos Soares: Synthetic data for a better understanding of models and algorithms: GANs for stress testing and other methods** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/Soares.pdf){:target="_blank" rel="noopener"}
+* 17:20 - 17:55 keynote by **Artur d'Avila Garcez: Neurosymbolic AI Contributions to Metalearning** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/Garcez.pdf){:target="_blank" rel="noopener"}
 * 17:55 - 18:00 closing
 
 
