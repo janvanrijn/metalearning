@@ -32,8 +32,9 @@ Location: PoliTo Room 4i
 * Jiarui Zhang (USC/ISI); Filip Ilievski (USC/ISI); Kaixin Ma (CMU); Jonathan M Francis (Bosch Center for AI; Carnegie Mellon University); Alessandro Oltramari (Bosch Research Pittsburgh): **A Study of Zero-shot Adaptation with Commonsense Knowledge** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/posterZhang.pdf){:target="_blank" rel="noopener"}
 * Mansour Sami (Edinburgh Napier University); ASHKAN SAMI (Edinburgh Napier University); Peter Barclay (Edinburgh Napier University): Unveiling the Boundaries: **Diversity Guardrails in Generative AI and Their Limitations**
 * Inês Gomes (University of Porto); Carlos Soares (University of Porto); Luis F Teixeira (INESC TEC and University of Porto); Jan N. van Rijn (Leiden University); André Restivo (University of Porto): **Interpretable Generative Stress Testing**
-* Fernando Freitas (University of Porto); Pavel Brazdil (INESC TEC); Carlos Soares (University of Porto): **Exploring the Reduction of Configuration Spaces of Workflows**
-* Lionel Kielhofer (Leiden University); Felix Mohr (Universidad de La Sabana); Jan N. van Rijn (Leiden University): **Learning curve extrapolation techniques across extrapolation settings**
+* Fernando Freitas (University of Porto); Pavel Brazdil (INESC TEC); Carlos Soares (University of Porto): **Exploring the Reduction of Configuration Spaces of Workflows** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/posterFreitas.pdf){:target="_blank" rel="noopener"}
+* Lionel Kielhofer (Leiden University); Felix Mohr (Universidad de La Sabana); Jan N. van Rijn (Leiden University): **Learning curve extrapolation techniques across extrapolation settings** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/posterKielhofer.pdf){:target="_blank" rel="noopener"}
+* Luísa B. Shimabucoro (University of Sao Paulo), Timothy M. Hospedales (University of Edinburgh) and Henry Gouk (University of Edinburgh): **Evaluating the Evaluators: Are Current Few-Shot Learning Benchmarks Fit for Purpose?** [<img src="GFX/pdffile.png" width="16" />](/metalearning/content/2023ECMLPKDD_workshop/posterShimabucoro.pdf){:target="_blank" rel="noopener"}
 
 ### Organization
 
